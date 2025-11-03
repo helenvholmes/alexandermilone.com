@@ -4,6 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Transit advocacy from the city of Philadelphia.
 url: "https://alexandermilone.com"
 # Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
+theme: minima
+plugins:
+  - jekyll-feed
