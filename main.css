@@ -51,21 +51,26 @@ ul {
   padding: 0;
 }
 
-h2 > ul {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+.whatever {
+  background-color: red;
 }
 
 li {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: end;
   border-bottom: 1px solid var(--border);
   padding: 1rem 0;
+  position: relative;
 }
 
 li a {
   text-decoration: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1rem;
+  bottom: 0;
 }
 
 a + a {
