@@ -1,0 +1,73 @@
+:root {
+  color-scheme: light dark;
+
+  --primary: light-dark(#462b1e, #ffe5d8);
+  --secondary: light-dark(#cca18b, #9a7765);
+  --background: light-dark(#fff2eb, #170f0b);
+  --border: light-dark(#dbb3a0, #5b463c);
+}
+
+body {
+  margin: auto;
+  max-width: 600px;
+  padding: 15em 2em;
+  background-color: var(--background);
+  color: var(--primary);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 0.85rem;
+}
+
+div h2:not(:first-of-type) {
+  margin-top: 7rem;
+}
+
+a,
+a:hover,
+a:visited {
+  color: var(--primary);
+}
+
+h1,
+h2 {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 2rem;
+  margin: 0;
+}
+
+h2 {
+  color: var(--secondary);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h2 > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+li {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 0;
+}
+
+li a {
+  text-decoration: none;
+}
+
+a + a {
+  margin-left: 2rem;
+}
