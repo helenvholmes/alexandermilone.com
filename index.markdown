@@ -15,12 +15,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Writing
 
-- [Name of Article](#) December, 2025
-- [Name of Article](#) December, 2025
-- [Name of Article](#) December, 2025
-- [Name of Article](#) December, 2025
-- [Name of Article](#) December, 2025
-- [Name of Article](#) December, 2025
+- [Pa. needs to stop subsidizing horse racing and put that money toward transit, _The Philadelphia Inquirer_](https://www.inquirer.com/opinion/commentary/horse-racing-fund-pennsylvania-septa-transit-cuts-20250711.html) July, 2025
+
+## Press
+
+- [TBD, _The Philadelphia Inquirer_](#) July, 2025
 
 ## Talks
 
