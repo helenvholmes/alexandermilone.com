@@ -51,6 +51,11 @@ h1 + h2 {
   margin-top: -0.25em;
 }
 
+table {
+  /* needed for the borders */
+  border-collapse: collapse;
+}
+
 @media (min-width: 600px) {
   body {
     padding: 15em 4em;
@@ -73,7 +78,6 @@ h1 + h2 {
   }
 
   table {
-    border-collapse: collapse;
     margin-top: 7rem;
   }
 }
@@ -96,6 +100,7 @@ td a {
 
 td + td {
   text-align: right;
+  vertical-align: text-top;
   width: 100px;
 }
 
