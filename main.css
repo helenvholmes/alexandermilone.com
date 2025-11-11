@@ -94,6 +94,11 @@ td a {
   text-decoration: none;
 }
 
+td + td {
+  text-align: right;
+  width: 100px;
+}
+
 a + a {
   margin-left: 2rem;
 }
