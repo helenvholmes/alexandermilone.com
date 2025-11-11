@@ -23,9 +23,12 @@ I’m a transit advocate and board member at [5th Square](https://www.5thsqadvoc
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 |[Three years after shutting down, Philly’s old Greyhound station will reopen in 2026 <br /> _Billy Penn_](https://billypenn.com/2025/10/30/greyhound-intercity-bus-station-ppa-reopen/)| October, 2025 |
+|[Lawsuit calls for SEPTA cuts to be reversed for harming low-income Philadelphians <br /> _The Philadelphia Inquirer_](https://www.inquirer.com/transportation/septa-service-cuts-lawsuit-income-race-20250827.html)| August, 2025 |
+|[Lawsuit targets SEPTA as cuts, funding talks continue <br /> _Metro Philadelphia_](https://metrophiladelphia.com/stories/lawsuit-targets-septa-as-cuts-funding-talks-continue,103815)| August, 2025 |
 |[Five Ways SEPTA Can Save Itself <br /> _The Philadelphia Citizen_](https://thephiladelphiacitizen.org/ideas-we-should-steal-save-septa/)| June, 2025 |
 |[Eco-Explainer: SEPTA is in a Funding Crisis. What’s the deadline to save it? <br /> _Green Philly_](https://greenphl.com/news/eco-explainer-septa-is-in-a-funding-crisis-whats-the-deadline-to-save-it/)| May, 2025 |
 |[What Is Philly Without SEPTA? <br /> _34th Street_](https://www.34st.com/article/2025/04/septa-budget-cut-transit-activism-chestnut-hill-west-regional-rail-transit-for-all-pa-philadelphia-josh-shapiro)| April, 2025 |
+|[City Council and concerned riders pepper SEPTA with criticism, questions on bus route changes <br /> _The Philadelphia Inquirer_](https://www.inquirer.com/transportation/septa-bus-route-changes-uproar-concerns-philadelphia-council-20230123.html)| January, 2023 |
 
 <!-- ## Talks
 
