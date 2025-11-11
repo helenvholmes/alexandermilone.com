@@ -20,6 +20,7 @@ body {
   font-variation-settings: "wdth" 100;
   font-size: 0.85rem;
   letter-spacing: 0.015em;
+  line-height: 1.35;
 }
 
 div h2:not(:first-of-type) {
@@ -50,53 +51,47 @@ h1 + h2 {
   margin-top: -0.25em;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 @media (min-width: 600px) {
   body {
     padding: 15em 4em;
   }
 
-  h2:has(+ ul) {
+  h2:has(+ table) {
     float: left;
     width: 25%;
   }
 
-  h2:nth-of-type(5):has(+ p) {
+  /* h2:nth-of-type(5):has(+ p) {
     margin-top: 7rem;
     float: left;
     width: 100%;
-  }
+  } */
 
-  h2 + ul {
+  h2 + table {
     width: 75%;
     float: left;
   }
 
-  ul {
+  table {
+    border-collapse: collapse;
     margin-top: 7rem;
   }
 }
 
-li {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
+tr {
   border-bottom: 1px solid var(--border);
-  padding: 1rem 0;
-  position: relative;
 }
 
-li a {
+tr:hover {
+  border-bottom: 1px solid var(--secondary);
+}
+
+td {
+  padding: 1em 0;
+}
+
+td a {
   text-decoration: none;
-}
-
-li a:hover {
-  text-decoration: underline;
 }
 
 a + a {

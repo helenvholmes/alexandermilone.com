@@ -9,27 +9,26 @@ layout: home
 
 ## Transit advocacy, Philadelphia
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I’m a transit advocate and board member at [5th Square](https://www.5thsqadvocacy.org/), where I work to advance safe, affordable, and accessible transportation for Philadelphians. My focus is improving the reliability, equity, and everyday experience of public transit across the city. I believe that strong transit systems help people live healthier, happier lives and connect communities to opportunity. I write op-eds and frequently speak with journalists about transit policy, street safety, and the choices that shape how we move through our city. My goal is to support a more connected, people-focused Philadelphia built around high-quality service and streets that work for everyone.
 
-[Email](mailto:alexander.j.milone@gmail.com) [Bio](#bio)
+[Email](mailto:alexander.j.milone@gmail.com)
 
 ## Writing
 
-- [Pa. needs to stop subsidizing horse racing and put that money toward transit, _The Philadelphia Inquirer_](https://www.inquirer.com/opinion/commentary/horse-racing-fund-pennsylvania-septa-transit-cuts-20250711.html) July, 2025
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|[Transit Funding in Pennsylvania Can’t Wait,_<br /> Streets Blog USA_](https://usa.streetsblog.org/2025/11/10/transit-funding-in-pennsylvania-cant-wait) |November, 2025|
+|[Pa. needs to stop subsidizing horse racing and put that money toward transit _<br /> The Philadelphia Inquirer_](https://www.inquirer.com/opinion/commentary/horse-racing-fund-pennsylvania-septa-transit-cuts-20250711.html)| July, 2025 |
 
 ## Press
 
-- [TBD, _The Philadelphia Inquirer_](#) July, 2025
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|[What Is Philly Without SEPTA? <br /> _34th Street_](https://www.34st.com/article/2025/04/septa-budget-cut-transit-activism-chestnut-hill-west-regional-rail-transit-for-all-pa-philadelphia-josh-shapiro)| April, 2025 |
 
-## Talks
+<!-- ## Talks
 
 - [Name of Talk](#) December, 2025
 - [Name of Talk](#) December, 2025
 - [Name of Talk](#) December, 2025
 - [Name of Talk](#) December, 2025
 - [Name of Talk](#) December, 2025
-- [Name of Talk](#) December, 2025
-
-## Bio
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- [Name of Talk](#) December, 2025 -->
