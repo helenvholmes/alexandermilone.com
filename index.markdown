@@ -22,6 +22,7 @@ I’m a transit advocate and board member at [5th Square](https://www.5thsqadvoc
 ## Press
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|[Three years after shutting down, Philly’s old Greyhound station will reopen in 2026 <br /> _Billy Penn_](https://billypenn.com/2025/10/30/greyhound-intercity-bus-station-ppa-reopen/)| October, 2025 |
 |[Five Ways SEPTA Can Save Itself <br /> _The Philadelphia Citizen_](https://thephiladelphiacitizen.org/ideas-we-should-steal-save-septa/)| June, 2025 |
 |[Eco-Explainer: SEPTA is in a Funding Crisis. What’s the deadline to save it? <br /> _Green Philly_](https://greenphl.com/news/eco-explainer-septa-is-in-a-funding-crisis-whats-the-deadline-to-save-it/)| May, 2025 |
 |[What Is Philly Without SEPTA? <br /> _34th Street_](https://www.34st.com/article/2025/04/septa-budget-cut-transit-activism-chestnut-hill-west-regional-rail-transit-for-all-pa-philadelphia-josh-shapiro)| April, 2025 |
