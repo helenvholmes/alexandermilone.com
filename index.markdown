@@ -9,7 +9,7 @@ layout: home
 
 ## Transit advocacy, Philadelphia
 
-I’m a transit advocate and board member at [5th Square](https://www.5thsqadvocacy.org/), where I work to advance safe, affordable, and accessible transportation for Philadelphians. My focus is improving the reliability, equity, and everyday experience of public transit across the city. I believe that strong transit systems help people live healthier, happier lives and connect communities to opportunity. I write op-eds and frequently speak with journalists about transit policy, street safety, and the choices that shape how we move through our city. My goal is to support a more connected, people-focused Philadelphia built around high-quality service and streets that work for everyone.
+I’m an urban advocate and volunteer board member at [5th Square Advocacy](https://www.5thsqadvocacy.org/), where I work to advance safe, affordable, and accessible transportation for Philadelphians. I focus on improving the reliability, coverage, equity, and day-to-day experience of public transit across the city. I believe that strong transit systems help people live healthier, happier lives, connect communities to opportunity, and make cities better places to live. I write op-eds and speak with the press about transit policy, street safety, and the choices that shape how we move throughout the Philadelphia metropolitan area. My goal is to support a more connected, people-focused Philadelphia built on high-quality transit and streets that work for everyone.
 
 [Email](mailto:alexander.j.milone@gmail.com)
 
@@ -28,6 +28,7 @@ I’m a transit advocate and board member at [5th Square](https://www.5thsqadvoc
 |[Five Ways SEPTA Can Save Itself <br /> _The Philadelphia Citizen_](https://thephiladelphiacitizen.org/ideas-we-should-steal-save-septa/)| June, 2025 |
 |[Eco-Explainer: SEPTA is in a Funding Crisis. What’s the deadline to save it? <br /> _Green Philly_](https://greenphl.com/news/eco-explainer-septa-is-in-a-funding-crisis-whats-the-deadline-to-save-it/)| May, 2025 |
 |[What Is Philly Without SEPTA? <br /> _34th Street_](https://www.34st.com/article/2025/04/septa-budget-cut-transit-activism-chestnut-hill-west-regional-rail-transit-for-all-pa-philadelphia-josh-shapiro)| April, 2025 |
+|[Lawsuit calls for SEPTA cuts to be reversed for harming low-income Philadelphians <br /> _The Philadelphia Inquirer_](https://www.inquirer.com/transportation/septa-service-cuts-lawsuit-income-race-20250827.html?query=alex%20milone)| April, 2025 |
 |[City Council and concerned riders pepper SEPTA with criticism, questions on bus route changes <br /> _The Philadelphia Inquirer_](https://www.inquirer.com/transportation/septa-bus-route-changes-uproar-concerns-philadelphia-council-20230123.html)| January, 2023 |
 
 <!-- ## Talks
