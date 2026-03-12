@@ -16,12 +16,14 @@ I’m an urban advocate and volunteer board member at [5th Square Advocacy](http
 ## Writing
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|[5th Square Advocacy Praises Key Transit, Accessibility Investments in Mayor Parker's Proposed FY2027 Budget<br /> _5th Square Advocacy_](https://www.5thsqadvocacy.org/5th-square-advocacy-praises-key-transit-accessibility-investments-in-mayor-parker-s-proposed-fy2027-budget)| March, 2026 |
 |[Transit Funding in Pennsylvania Can’t Wait,_<br /> Streets Blog USA_](https://usa.streetsblog.org/2025/11/10/transit-funding-in-pennsylvania-cant-wait) |November, 2025|
 |[Pa. needs to stop subsidizing horse racing and put that money toward transit _<br /> The Philadelphia Inquirer_](https://www.inquirer.com/opinion/commentary/horse-racing-fund-pennsylvania-septa-transit-cuts-20250711.html)| July, 2025 |
 
 ## Press
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+|[Philadelphia residents weigh in on new locations for inter-city bus terminal <br /> _CBS News Philadelphia_](https://www.cbsnews.com/philadelphia/video/philadelphia-residents-weigh-in-on-new-locations-for-inter-city-bus-terminal/)| February, 2026 |
 |[Three years after shutting down, Philly’s old Greyhound station will reopen in 2026 <br /> _Billy Penn_](https://billypenn.com/2025/10/30/greyhound-intercity-bus-station-ppa-reopen/)| October, 2025 |
 |[Lawsuit calls for SEPTA cuts to be reversed for harming low-income Philadelphians <br /> _The Philadelphia Inquirer_](https://www.inquirer.com/transportation/septa-service-cuts-lawsuit-income-race-20250827.html)| August, 2025 |
 |[Lawsuit targets SEPTA as cuts, funding talks continue <br /> _Metro Philadelphia_](https://metrophiladelphia.com/stories/lawsuit-targets-septa-as-cuts-funding-talks-continue,103815)| August, 2025 |
